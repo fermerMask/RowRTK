@@ -1,0 +1,7 @@
+# Ignore Python virtual environment files
+/Lib
+/Scripts
+/Include
+/share
+pyvenv.cfg
+
